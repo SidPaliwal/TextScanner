@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextScanner</string>
+    <string name="this_is_the_image_text">SCANNED TEXT</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="select_from_gallery">Select From Gallery</string>
+    <string name="scanned_text">SCANNED TEXT</string>
+</resources>
